@@ -43,3 +43,42 @@ pros: it's just a hook, quite simple and you can store it on a place that isn't 
 cons: needs to be secured rigidly to the table or the wall (i can see a piece of 3M double sided tape or something on the top, so i assume that it has to be secured to the table)
 
 I think that i could maybe make a headphone stand that hangs off of the table, without using any tape, but i'm not entirely sure how to do it just yet. 
+
+# session 2:
+hmmmmmmm
+i think i'm going to search for headphone stands that mount onto the table, and rate them.
+![image](https://github.com/user-attachments/assets/cc3b9126-cfbb-421f-9ab0-ce1f463a6201)
+this one is quite interesting, but it needs something to help it secure it to the table
+pros: holds the headphones, and can possibly hold 2.
+cons: needs nails or screws or something to help hold it up.
+![image](https://github.com/user-attachments/assets/929aa047-2d99-4b5e-918e-8d1ba6db874d)
+pros: holds headphones
+cons: needs things ot help secure to the table. 
+![image](https://github.com/user-attachments/assets/8d62b198-c2a2-492a-9f81-e521efdeeedf)
+THIS IS WHAT I NEED.
+ok so
+from what i can tell, it's basically 2 plates sandwiching the table, and it has the headphones stowed directly underneath, so that the center of mass doesn't go wack. 
+hmmmmm i think i can adapt this. 
+i think i want it to face towards the front, so i don't have to push the headhpones away from me to get it off the stand. 
+the further and further i scroll down the images, the more examples that i see that are exactly what i described.
+![image](https://github.com/user-attachments/assets/0f1a7fda-aefb-4d43-8b5d-811b13780041)
+![image](https://github.com/user-attachments/assets/17ca6820-824c-4cf5-a08c-01a8a2693bfe)
+![image](https://github.com/user-attachments/assets/8d696eb9-1ba6-48e9-9126-c69614d1df74)
+![image](https://github.com/user-attachments/assets/b70f11d0-0e26-407b-9d1b-b2b99aa96ed6)
+hmmmmm ok. 
+![image](https://github.com/user-attachments/assets/12fbb076-06cc-48ed-bdc2-8631830aac89)
+this is the side view that i've come up with. the slope at the hook is to make it even easier to slide the headphones off of the stand. 
+i think i migth make a bunch of things configurable. 
+![image](https://github.com/user-attachments/assets/ab5afe7f-2159-42cb-a672-3b37802edec9)
+aw mannnn
+![image](https://github.com/user-attachments/assets/4ac00ec9-ffc5-43a9-a560-a8d7aba89721)
+i've made some configurations for the hook and the thickness of the table. now, i need to somehow be able to adjust the size of the part that supports the hook. 
+![image](https://github.com/user-attachments/assets/6b1e1a0d-75dd-4473-9d25-a22033f86da4)
+i think this feels overkill now, after looking at a ruler. 
+![image](https://github.com/user-attachments/assets/a4ff8c52-a13c-4394-a0af-228b556022dc)
+i think this works?
+i also want to make a wire spool that looks like a 3d printer filament spool, although i also want it to be easy to take the wire off of the spool easily. 
+hmmmmm
+should i mount it above the headphone or below...
+i think mounting it above could limit the space that you can reach on the desk and stuff, also it could be hard to reach it, since the wire is at the bottom of the headphone, not at the top. 
+i think i'm mounting it below.
