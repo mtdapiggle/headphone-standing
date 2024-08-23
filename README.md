@@ -110,3 +110,50 @@ that doesn't look tooo good.
 ![image](https://github.com/user-attachments/assets/4c4a1e79-4d81-462b-9986-6278c45f4656)
 this could work, but the main problem is that the gap is too small to put a headphone jack through. 
 hmmksamfdklasjdfask;jfa;slkjdfasjfkd
+
+# session 3:
+i have to find the right balance between the size of the wire spool and the size of the gaps for the headphone jack. 
+![image](https://github.com/user-attachments/assets/891e2fc3-a220-4877-9562-ae3e2bc52a4c)
+i put a hole through the middle to make it look more like a 3d printer spool.
+![image](https://github.com/user-attachments/assets/256e8656-1ae2-4210-9f7f-a2ceb7f80d08)
+i tried to use an isogrid pattern to make it look cooler, didn't really work out.
+![image](https://github.com/user-attachments/assets/819cb5c3-8931-40a5-b84a-8c1d496093f9)
+ooo this looks good. 
+the only problem is that i can't select 2 faces at once, so i have to use 2 different cheeseits.
+honestly i might just keep it as is. 
+![image](https://github.com/user-attachments/assets/7a3d0ef6-b132-4ea7-985e-e3707c3ccc6a)
+this looks nice but it cuts through the bottom. 
+![image](https://github.com/user-attachments/assets/e273e40d-ad81-4bfa-9738-4bd85b0861f5)
+with most of the headphone stand having patterns, the top half looks a bit out of place. 
+![image](https://github.com/user-attachments/assets/59304919-48f9-48d6-aefb-25fa5b7b2af7)
+i used patchit to fix the problem, which was that there was a pocket in the top half, which prevented the rest of the top half to be pocketed/patterned. 
+![image](https://github.com/user-attachments/assets/78bdc016-ebee-4f76-95c1-148620699fbe)
+hmmm it just doesn't work. 
+![image](https://github.com/user-attachments/assets/ca351666-f4d2-4a42-bb93-6ef278241df4)
+you may notice that the fillet is smaller on the top half, which is because cheeseit doesn't allow me to use a 2 mm radius fillet/tool radius.
+![image](https://github.com/user-attachments/assets/a237a747-3487-49d9-977c-14ddf0ecff95)
+hmmm this doesn't look entirely good. i really want the pocketing but it also makes other things look scuffed. 
+![image](https://github.com/user-attachments/assets/432bd758-f857-4d45-8717-0131b0b1726d)
+i decided to just leave a bit of room in the back
+![image](https://github.com/user-attachments/assets/fa9b8673-23b3-4e84-bf64-89e5423af454)
+one might say that i;m going overboard with the pocketing. 
+![image](https://github.com/user-attachments/assets/df7e34eb-3173-42ee-8ba3-eb4625bbb57d)
+i was also able to swap back to a 2mm tool radius/fillet, but it doesn't really matter too much, as you can't really machine this anyways, and i plan for this to be 3d printable. 
+![image](https://github.com/user-attachments/assets/5f5d2abf-d0fa-4dff-b4af-3e10e5ab136a)
+i am NOT pocketing the bottom layer. 
+![image](https://github.com/user-attachments/assets/96888fc7-74c1-4016-94ff-aa9c17a1a1ee)
+instead of making the 3d printer spool pattern myself i wondered if i could use the cheeseit
+![image](https://github.com/user-attachments/assets/a9dea842-64e9-4a13-bd5e-7c63ea853019)
+uh...
+![image](https://github.com/user-attachments/assets/2e02cf61-dfee-40c7-b9b4-0b6d4f56a74f)
+ok i'm just going to use hexagons. 
+![image](https://github.com/user-attachments/assets/704bdbe2-5a4d-43d9-9c5f-768aced9c679)
+that's not bad from the back.
+![image](https://github.com/user-attachments/assets/e7cde5fc-1126-4ed3-a52b-04e6104def9e)
+damn that's good.
+i think it's pretty much done
+i think i might make more headphone stands, ~~so i can stay away from frc cad for longer~~ so i can cater to people who don't have a lot of space underneath their desk (aka my brother, even though he already has a headphone stand that is like a wooden hand that he can change the bending of the fingers to hold his headphones which is from ikea
+![Uploading image.png…]()
+)
+i might make several different designs for above-desk headphone stands
+idk what i want to make though. 
