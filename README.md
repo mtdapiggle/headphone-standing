@@ -201,3 +201,41 @@ asdfnsal;kfdja;lk;sdf
 i just did the same thing as i did before. 
 ![image](https://github.com/user-attachments/assets/a3edc611-49a1-4f6b-8545-02496aade828)
 so uhmmmmmm patchhit isn't working as i expected it to work.
+
+# session 6:
+i don't know where to really go from here. i need to patch up this pocket, and then make the wire spool, or i could make the wire spool as an additional thing. 
+actually, in my opinion, you don't need a wire spool, when you can just wrap it around/through the stand. 
+![image](https://github.com/user-attachments/assets/d5803788-b7c9-4f6c-b7f3-248317418958)
+i think this is good.
+i wanna make more headphone stands, or gaming equipment or stuff.
+actually, i remembered that i have this USB thingy, that allows me to connect more USB cables into my computer, pretty sure it's called a USB hub, and i want to make a mount for it, since i have a laptop stand.
+although yes i did make a mount for it using lego, i kinda wanna make a cooler, more sophisticated and epic looking mount.
+this basically required me to check the dimensions of my usb hub.
+it's around 7cm in width and length, and around 2 cm in thickness. i'll add some leeway for it in the mount, and an area for the cable to come out from.
+i don't really know what i want it to look like, i might make it have 4 legs facing in different directions.
+hmmmmmmmmm.
+my creativity is going off the charts !!!
+(i can't think of anything right now)
+![image](https://github.com/user-attachments/assets/7d964898-b84f-432d-9ec1-436f4850b85c)
+all i've got is this funny square. 
+i guess i'll start off with makin the floor for it? 
+idk, the headphone stands are relatively simple, and i wanna do something cool for this, but i'm just not sure on what to do. 
+i think i might make a plate on the side to cover the mount, but not cover up the wires and stuff. 
+![image](https://github.com/user-attachments/assets/e07f5bcc-888a-4a70-945e-047f038f0ac9)
+i think i might make the floor a bit thinner. 
+![image](https://github.com/user-attachments/assets/40c5605e-ff1a-4588-9671-54f53fd45af7)
+maybe if i made the shape larger
+![image](https://github.com/user-attachments/assets/0e3b7e6c-bc90-4733-b3ff-53def3a00bf7)
+hmmmmmm looks good
+![image](https://github.com/user-attachments/assets/21a11f46-aff0-4751-ab09-55f1ad953d13)
+argh but hexagons look so good too...
+i'm spinning a wheel on this. 
+![image](https://github.com/user-attachments/assets/92a34c05-adf6-45c3-9ca4-f51cc4ad822a)
+andddd isogrid won!
+![image](https://github.com/user-attachments/assets/8f52553e-d58d-4392-b137-a9f822c5a9fb)
+i won't lie though, the height difference on the top is a bit interesting, but i'll stick with isogrid. 
+nevermind i'm going with hexagons. 
+![image](https://github.com/user-attachments/assets/b15f87a9-eeef-40be-b3f4-b3dcc3f962fd)
+ima mirror this. 
+![image](https://github.com/user-attachments/assets/c7be8455-b039-41d1-a1c1-f4142e287e24)
+uhm thing are not going good. 
