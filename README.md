@@ -82,3 +82,31 @@ hmmmmm
 should i mount it above the headphone or below...
 i think mounting it above could limit the space that you can reach on the desk and stuff, also it could be hard to reach it, since the wire is at the bottom of the headphone, not at the top. 
 i think i'm mounting it below.
+
+# session 3:
+![image](https://github.com/user-attachments/assets/63b79925-b217-4dea-9dee-df34f33d4ba2)
+hmmmmmmmmm
+i think i wanna change some things. 
+![image](https://github.com/user-attachments/assets/72d2f5fa-a28c-42ec-896f-3e70b6dc248e)
+ooo i think that's good. 
+![image](https://github.com/user-attachments/assets/f6e4c7a5-73b1-46aa-bf24-ffaef305f5ec)
+i might extend the back area out. 
+![image](https://github.com/user-attachments/assets/48020c21-bcf0-4d82-a33a-a36a3ffd4f83)
+hmmm ok i think i wanna change some things. 
+![image](https://github.com/user-attachments/assets/55099db1-d506-4075-85f2-5cd05c761b44)
+the headphone spool is large compared to the size of the headphone stand. 
+![image](https://github.com/user-attachments/assets/dd076829-49f7-4b9f-908d-35fe89f3e3af)
+ok cool.
+![image](https://github.com/user-attachments/assets/1ad6a664-2b90-4ac1-9930-0ea38410b04b)
+it might be still a bit large compared to the headphone stand, but it might be fine. 
+![image](https://github.com/user-attachments/assets/68b14cb5-1a38-4652-8771-08d81887bdce)
+i just realised that it might not be possible for this to be 3d printed on a regular size plate/the bambu lab a1 mini plate. 
+![image](https://github.com/user-attachments/assets/9ce438fd-d163-4e23-918b-0fbb735cb3bd)
+that might be good enough. 
+![image](https://github.com/user-attachments/assets/107f6dca-4653-4354-9c8b-f4ecb03a47cb)
+hmmmmmmm
+![image](https://github.com/user-attachments/assets/f2d0094c-2ef5-4e00-a9bc-be6a95b76d2c)
+that doesn't look tooo good. 
+![image](https://github.com/user-attachments/assets/4c4a1e79-4d81-462b-9986-6278c45f4656)
+this could work, but the main problem is that the gap is too small to put a headphone jack through. 
+hmmksamfdklasjdfask;jfa;slkjdfasjfkd
