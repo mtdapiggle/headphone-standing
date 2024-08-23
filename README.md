@@ -276,3 +276,52 @@ that's not good.
 hmmmmmmmmmmmmmmmmmmmmm.
 ![image](https://github.com/user-attachments/assets/9562b0c3-2b24-42e9-967a-1940aef96f03)
 surely nothing goes badly. 
+
+# session 8:
+![image](https://github.com/user-attachments/assets/a362a344-1c9d-4365-92ad-ef5d0c61d344)
+ooooof.
+![image](https://github.com/user-attachments/assets/89ad6c5d-d95c-4b86-8b95-e7da021d279f)
+this should work?
+![image](https://github.com/user-attachments/assets/14e4b969-9565-4686-8405-ac44899505c2)
+i guess this looks cool, ima add some fillets. 
+![image](https://github.com/user-attachments/assets/ac3eb6ea-4725-4de1-8351-5f63a39dcef6)
+there's never too much filleting. 
+![image](https://github.com/user-attachments/assets/342c7207-4c87-42e9-8462-1f84f0c90cea)
+maybe i should cut down on it. 
+![image](https://github.com/user-attachments/assets/7b6a993a-f60a-4d46-9109-d14a0f5f2d29)
+maybe, just maybe i should've made 1 leg before mirroring it all. 
+![image](https://github.com/user-attachments/assets/a96d6cdb-7453-490a-be28-d0078b179b64)
+hmmm yes.
+![image](https://github.com/user-attachments/assets/5afdfc78-3283-490e-8d24-3bede9404a39)
+hmmmmmmmmm.
+![image](https://github.com/user-attachments/assets/65a68e91-a59f-47bb-b25e-4779c2537701)
+oh no. 
+![image](https://github.com/user-attachments/assets/bf7e527e-96c8-4e1a-a0c7-ea798c5c8950)
+ok time to fix the bottom. 
+![image](https://github.com/user-attachments/assets/1c027e46-6332-41b7-8613-445d7bb6c25f)
+breaking. 
+![image](https://github.com/user-attachments/assets/e98b9909-8b63-49fc-a35b-8b5c42afe032)
+i can't mirror the other bit of the leg. 
+![image](https://github.com/user-attachments/assets/ece4c37f-ea66-4c8d-af0c-e941b84b8105)
+okkkayyyyy.
+![image](https://github.com/user-attachments/assets/26beca13-661d-4dd0-b675-aca4a19bab85)
+ok cool, ribs were added. 
+![image](https://github.com/user-attachments/assets/ec1b13de-91af-4c46-92db-39ce98a95cdc)
+hmmmmm
+
+![image](https://github.com/user-attachments/assets/0fefb6b0-6975-4802-9b50-a2fbbd918534)
+mmmm maybe not. 
+![image](https://github.com/user-attachments/assets/dc088033-5f18-49f1-b168-dd803dfa29a6)
+i think this is good (i don't like it)
+![image](https://github.com/user-attachments/assets/afffa0d6-0ea1-4197-abbc-ac9ad74cf099)
+hmmmmm ok that's nice, not bad, not bad. 
+now it's time to spam fillet. 
+mor fillet
+![image](https://github.com/user-attachments/assets/757a9c2f-1f28-4c45-b7d8-62889340841c)
+![image](https://github.com/user-attachments/assets/a8add666-9626-4e20-a1d1-3cfecd722d71)
+![image](https://github.com/user-attachments/assets/0e2d22be-bec9-431c-b7aa-3878e53cbc6c)
+so i just realised that it's like 15 cm long, which isn't good at all. 
+hfkasjdf;alsjdfkaljfd;asfd
+all that work
+just to be annihilated
+as i realise, that it's just too big. 
