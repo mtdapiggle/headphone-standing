@@ -111,7 +111,7 @@ that doesn't look tooo good.
 this could work, but the main problem is that the gap is too small to put a headphone jack through. 
 hmmksamfdklasjdfask;jfa;slkjdfasjfkd
 
-# session 3:
+# session 4:
 i have to find the right balance between the size of the wire spool and the size of the gaps for the headphone jack. 
 ![image](https://github.com/user-attachments/assets/891e2fc3-a220-4877-9562-ae3e2bc52a4c)
 i put a hole through the middle to make it look more like a 3d printer spool.
@@ -153,7 +153,51 @@ that's not bad from the back.
 damn that's good.
 i think it's pretty much done
 i think i might make more headphone stands, ~~so i can stay away from frc cad for longer~~ so i can cater to people who don't have a lot of space underneath their desk (aka my brother, even though he already has a headphone stand that is like a wooden hand that he can change the bending of the fingers to hold his headphones which is from ikea
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2d76e6e7-be31-4121-8de4-d094c0ea82fd)
 )
 i might make several different designs for above-desk headphone stands
 idk what i want to make though. 
+
+# session 5:
+i don't know what to do for it, so i'm just gonna look at examples. 
+alright i got an idea now. 
+![image](https://github.com/user-attachments/assets/00548d43-7b3f-4e21-9547-61ba09dd3034)
+problem, it might get too big for a 3d printer plate. 
+i might have to somehow make ti modular, so that you can print it in 2-3 pieces. 
+![image](https://github.com/user-attachments/assets/187eb807-ad0e-4069-8300-eedb6f024d63)
+hmmmmmmm.
+![image](https://github.com/user-attachments/assets/03273889-43bc-4d33-93ef-422886de5a1f)
+hmmmmmmmmmmmmmmmmmmmmm
+![image](https://github.com/user-attachments/assets/b12db367-0732-4370-9114-5a55e99f3b14)
+i mean it's alright, but i think i prefer something else. 
+![image](https://github.com/user-attachments/assets/e87d55fc-3081-4eaa-a8ac-f29a6aebc21d)
+hmmmm this is a cool pattern.
+![image](https://github.com/user-attachments/assets/66e618fc-9931-40b3-a85e-5c1ad6091153)
+hexagons ain't bad. 
+![image](https://github.com/user-attachments/assets/f992d917-6e81-4ce3-8ee0-7758a1c55522)
+i tried to save some time here, it didn't turn out well. 
+![image](https://github.com/user-attachments/assets/7cd18f07-066f-4d1b-875f-d45220338260)
+aye it looks good. 
+![image](https://github.com/user-attachments/assets/b17dee90-e2b9-48ce-a6aa-8f7fd99efe00)
+hmmm, i'm not entirely sure if i do want to pocket the top half.
+![image](https://github.com/user-attachments/assets/c15c6eed-4708-46c7-9769-d52c39f3efb2)
+i guess this could vary things up. 
+![image](https://github.com/user-attachments/assets/4ce65fbf-c541-451c-b6f7-045c717a6884)
+i made the walls thicker, so that the top half would be more rigid/stable. 
+although, i can't shake off the feeling that it just looks off. the top half does not look like it belongs with the bottom half. 
+![image](https://github.com/user-attachments/assets/9aade0f1-29fa-40ae-a845-544cd3bdc3e7)
+i ddecided to make a custom region to adjust the cheeseit.
+![image](https://github.com/user-attachments/assets/5b97c833-f78d-4440-a9c9-c414e69fda30)
+it doesn't work like i think it does. hmmmmmmmmm.
+i have no idea how to use it. 
+![image](https://github.com/user-attachments/assets/01db285a-1b2e-4023-94dd-f85b3eea62ba)
+uh huh...
+![image](https://github.com/user-attachments/assets/c9cd25c2-2082-40c5-823d-007642b44c6f)
+i guess this works out. 
+now i feel like i need to pocket the stand. (yeah i'm going into a spiral where i pocket everything. )
+![image](https://github.com/user-attachments/assets/37e54545-7339-46ec-8c42-d404a380e9a4)
+and we run into the same problem, once again.
+asdfnsal;kfdja;lk;sdf
+i just did the same thing as i did before. 
+![image](https://github.com/user-attachments/assets/a3edc611-49a1-4f6b-8545-02496aade828)
+so uhmmmmmm patchhit isn't working as i expected it to work.
