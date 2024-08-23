@@ -239,3 +239,40 @@ nevermind i'm going with hexagons.
 ima mirror this. 
 ![image](https://github.com/user-attachments/assets/c7be8455-b039-41d1-a1c1-f4142e287e24)
 uhm thing are not going good. 
+
+# session 7:
+hmmmmmmmmmm
+![image](https://github.com/user-attachments/assets/9c4a21d5-9752-4b53-8068-0a181dc2e7b3)
+alright cool.
+hmmmm, now to think of a way to hold it up.
+i know that i'm doing 4 legs, but i don't really know how to make it not look really weird/wacky.
+![image](https://github.com/user-attachments/assets/6531b132-b80c-41fb-ac4c-13aeff97a6b0)
+ok i have an idea. 
+![image](https://github.com/user-attachments/assets/cb478d64-288d-48d8-a809-f96c293c43ec)
+surely i'm cooking.
+![image](https://github.com/user-attachments/assets/690fa3e9-f4d3-4754-b34e-b1c5726d44d3)
+kinda cooking. 
+![image](https://github.com/user-attachments/assets/1960f061-6fe5-48b3-9675-6f88b4f3b8fb)
+actually nevermind i don't think i'm cooking, since the thickness is too low, so it could be unstable in some directions and stuff. 
+![image](https://github.com/user-attachments/assets/07c7587f-4dc6-4c9e-b19d-59d77343efd6)
+this could work? idk...
+the main problem that i'm having is just trying to thnk of a cool design for the legs, but all of the things are just kinda basic and scuffed.
+hmmmmm.
+i just feel... stuck.
+i think ball jointed legs could be nice, but i'm not sure how they would go with 3d printing, and i have to find a combination of rigidness and flexibility. 
+sakdjfakfak;sldfja;lsdkfjkad
+i could make it look like they're ball jointed.
+hufhdsafksadj
+i just don't know what to do.
+like
+i have to somehow balance complexity and coolness. 
+hmmmmmmmmalkjfdasklf
+![image](https://github.com/user-attachments/assets/91b5039e-ae34-4ed9-b68e-631188c19756)
+i quickly realised that this wouldn't work, for one reason 
+![image](https://github.com/user-attachments/assets/93e7d366-f2f7-489f-8650-2278763a056c)
+hmmm yeah...
+that's not good. 
+![image](https://github.com/user-attachments/assets/62923bdb-4773-410e-b58b-f7fe514c26bf)
+hmmmmmmmmmmmmmmmmmmmmm.
+![image](https://github.com/user-attachments/assets/9562b0c3-2b24-42e9-967a-1940aef96f03)
+surely nothing goes badly. 
