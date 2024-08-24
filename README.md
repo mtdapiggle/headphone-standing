@@ -361,3 +361,32 @@ i guess this kinda works? but the main problem is that it may not be able to hav
 chamfer for the win !!!!
 also, i realised that i'm super dumb.
 i'll explain it in the next session. 
+
+# session 9:
+ok, so i realised that i could've just cut an area in the hinge area. 
+![image](https://github.com/user-attachments/assets/0744d32d-d86c-4e12-864f-9918cbdac9f0)
+kinda like this, but without the top bit. 
+![image](https://github.com/user-attachments/assets/8ab43eaf-b2e6-476f-82cd-f6883b122ca1)
+ok cool. 
+![image](https://github.com/user-attachments/assets/ba39c4ec-5980-4b2c-af62-d34224547f6f)
+i want to offset the hinge slightly.
+![image](https://github.com/user-attachments/assets/a15c357f-1d8b-4d88-8faf-f5c564f8b443)
+alright that's cool. (except the bit sticking out at the top.)
+![image](https://github.com/user-attachments/assets/00ded9fd-922a-451c-a443-8abe356397f6)
+hmmmm  yes quite interesting. 
+![image](https://github.com/user-attachments/assets/4765c7c2-567f-4eed-8289-8012f96dff5f)
+ok cool. 
+![image](https://github.com/user-attachments/assets/10f68092-d056-4e05-be6c-c8440714f588)
+what the flip is this ???
+![image](https://github.com/user-attachments/assets/9b293bf2-ac93-42b2-9bae-767967beaf98)
+tis fixedd now. 
+![image](https://github.com/user-attachments/assets/38d7baf7-182e-4b3d-84d5-599b046a6b40)
+this mightttt be a bit long. 
+surely it's all fine. 
+![image](https://github.com/user-attachments/assets/87efd327-5e11-4ac6-98c2-bdd147400e99)
+i made it shorter and adjusted the lip. 
+now, i can be lazy and make the back end of the phone stand a circle and just not have to care about designing something, but i'm kinda bored, so might as well do something fun. 
+![image](https://github.com/user-attachments/assets/16e1fdb7-e3aa-4580-8221-588da9b309b3)
+i swear this isn't what it looks like. 
+![image](https://github.com/user-attachments/assets/80b259cb-208f-41d0-acaf-eaef7d08b80a)
+hummmmm.
