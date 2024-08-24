@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a22f5c41-a3b5-49f9-96e6-b24cf409d6a5)![image](https://github.com/user-attachments/assets/b228751f-a311-45f7-ad2d-99968511a269)# headphone-standing
+# headphone-standing
 i wanna make a headphone stand to take a break from frc cadding
 
 # session 1:
