@@ -1,4 +1,4 @@
-# headphone-standing
+![image](https://github.com/user-attachments/assets/a22f5c41-a3b5-49f9-96e6-b24cf409d6a5)![image](https://github.com/user-attachments/assets/b228751f-a311-45f7-ad2d-99968511a269)# headphone-standing
 i wanna make a headphone stand to take a break from frc cadding
 
 # session 1:
@@ -325,3 +325,39 @@ hfkasjdf;alsjdfkaljfd;asfd
 all that work
 just to be annihilated
 as i realise, that it's just too big. 
+
+# session 8:
+![image](https://github.com/user-attachments/assets/93f42725-7674-407e-a9d8-e31b52ca2483)
+ok, so this should be fine? i think.
+i checked my current lego mount and my current lego one is slightly larger, so this works. 
+now i think i might make a phone stand. 
+hmmmmmmmmmmmmmmmmmmmm
+i might make it so that it can hold it regardless if it's horizontal or vertical, i also want to make it so you can adjust the things that will grip the phone, and possibly be able to spin the grips, so it can go from vertical to horizontal. i'm not entirely sure how i'll do it, but i'll get started on a base of sorts first. or maybe some legs. idk.
+jalskdfja;klsfjdaslk;dfjas;dkf
+hmmmmmmmmmmmmm.
+i think i might try to figure out the grips first
+before doing the base, because the base could be like the base of the headphone stand or it could have legs like the usb hub mount, so ...
+idk.
+ok so i just searched up phone stands, and they're all really simple. oh well. 
+hmmmmmmmmmmmmm
+well ok. fine.
+i might just make the angle that the phone is held to be adjustable, and maybe have it also have the capability to have the phone be vertical. 
+![image](https://github.com/user-attachments/assets/cfd1d0f3-9748-49ac-9cd4-e0443299fd0a)
+i have an idea to create a plane. 
+![image](https://github.com/user-attachments/assets/4b848111-5d00-43f1-92d1-ce07cdc8caf2)
+hmmmmmmmmmmmmm.
+![image](https://github.com/user-attachments/assets/a78527a5-4b0c-4c44-ac14-7f9fa33ae9a6)
+lemme cook real quick. 
+![image](https://github.com/user-attachments/assets/bd38dc8c-f9d2-40ca-bd7e-f00bd1b045cb)
+let me cook !!!
+![image](https://github.com/user-attachments/assets/5dfdf106-86d3-4008-a5a2-9bcc68811ab9)
+ok nvm do not let me near the stove. 
+hmmmmmmm.
+i'm not entirely sure on how to do this.
+argh. 
+![image](https://github.com/user-attachments/assets/13766ea1-c7ba-486b-bd2e-d2dca757ebdf)
+i guess this kinda works? but the main problem is that it may not be able to have the full degree of rotation that i want it to have. 
+![image](https://github.com/user-attachments/assets/29824970-06b5-4922-b35b-c54228e0be31)
+chamfer for the win !!!!
+also, i realised that i'm super dumb.
+i'll explain it in the next session. 
