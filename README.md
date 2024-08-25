@@ -390,3 +390,46 @@ now, i can be lazy and make the back end of the phone stand a circle and just no
 i swear this isn't what it looks like. 
 ![image](https://github.com/user-attachments/assets/80b259cb-208f-41d0-acaf-eaef7d08b80a)
 hummmmm.
+
+# session 10:
+let me cook (famous last words)
+![image](https://github.com/user-attachments/assets/a4023e80-cd41-4be7-91a5-c824fa521c76)
+cooking. 
+i think i might cut out some areas.
+![image](https://github.com/user-attachments/assets/9441ebb1-22ce-427a-a542-ebc7bd7ea153)
+i mightttt have to extend the front part out. 
+![image](https://github.com/user-attachments/assets/4b823f8a-21ca-4c98-b42f-9511a622ea37)
+this looks slightly familiar.
+![image](https://github.com/user-attachments/assets/4bb152b7-c935-4ad6-a9c2-9f3399d9c413)
+hmmmmmmmmmmmmmmmmmmm.
+![image](https://github.com/user-attachments/assets/e7fae3fb-54ab-4336-9496-9c0e2ab68b56)
+ok cool. 
+![image](https://github.com/user-attachments/assets/d09f9308-e7ab-4a83-a250-f8fad6062094)
+the back end might be slihgttttlyyyyy long. 
+![image](https://github.com/user-attachments/assets/62d481ef-1272-4e1e-af51-59aca7783284)
+cool. 
+![image](https://github.com/user-attachments/assets/85d26d79-2925-4e2b-933e-68a2ab4876f5)
+epic filleting. 
+i think i'm forgetting something..
+OH RIGHT POCKETING.
+![image](https://github.com/user-attachments/assets/b021beb7-7ae1-4521-83d3-76b5b0a379f3)
+ooooo that's really good. 
+![image](https://github.com/user-attachments/assets/d9e10667-94e0-4fbb-bf45-fbb2e30ce257)
+cheeeeeeeese.
+i wanted to make one final thing, (to form the quintuple of random things that i probably won't print)
+i'm not entirely sure what i want to make
+so uh.
+yeah.
+uhm
+so i spent some minutes just brainstorming things that i could do/things that i need. 
+so i realised, that i sorta needed an area to organise all of my school books and papers, which are currently randomly scattered everywhere, so uh
+new thing to do !
+i measured the spine length of my workbook, and it's like 290 mm long, i definitely can't print that, so i'm going to be reducing it to like 180 something and make it so that you can make it modular !!!
+because yeah. 
+i kinda wanna make it so that you can slot the dividers in, but since they're so thin it probably will be quite hard. 
+![image](https://github.com/user-attachments/assets/222ab2af-4c5e-4cdd-98e9-9e3a442df464)
+i'm afraid that these could snap off.
+(i just realised that i'm kinda dumb, i can expand it as much as i want, as long as i make the base big enough to accomodate.)
+![image](https://github.com/user-attachments/assets/00363d58-44f0-4e74-936e-aee30da19efc)
+that should be large enough.
+also, as i'm writing this session, around an hour? ish ago, bartosz told me that i should commit using .stl files, so i'm gonna have to look through version history with this one. 
