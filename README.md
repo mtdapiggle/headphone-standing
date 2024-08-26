@@ -433,3 +433,49 @@ i'm afraid that these could snap off.
 ![image](https://github.com/user-attachments/assets/00363d58-44f0-4e74-936e-aee30da19efc)
 that should be large enough.
 also, as i'm writing this session, around an hour? ish ago, bartosz told me that i should commit using .stl files, so i'm gonna have to look through version history with this one. 
+
+# session 11: 
+so i decided to make the bottom/base of the book holder/book thingy/book organiser.
+![image](https://github.com/user-attachments/assets/c3fcd998-d133-4b8d-bf79-ecff81e83a41)
+epic !
+i also decided to make the base of the book organiser configurable, so you can adjust to the length that you need. 
+i did add a bit of tolerances on the base, to make sure that it isn't too hard to slide it in. although, it probably didn't need it.
+![image](https://github.com/user-attachments/assets/f83c2060-949c-4cdf-a60e-4508cb506e59)
+oh no.
+![image](https://github.com/user-attachments/assets/e6c4a7e1-bc11-48f3-b9e4-83e41fe9f63d)
+i extruded everything, and then decided to make the back of the book organiser, so that the divider doesn't go all the way through, in case if it isn't up against a wall. 
+then i pocketed a everything, it mostly didn't go without a hitch
+![image](https://github.com/user-attachments/assets/74ed7264-ba40-424e-9216-522b36271165)
+uh oh 
+![image](https://github.com/user-attachments/assets/49a7c571-db08-4dd1-a2c8-ec6ef132321d)
+cheeseit just doesn't work. ok, ima have to find another way. 
+asjdf;klsadfk;lasdjfa;lsdkf i don't wanna have to manually draw out the pattern...
+![image](https://github.com/user-attachments/assets/fa9e142a-5328-432f-a2e7-467171704658)
+managed to find a fix, but it still leaves out the bottom part, so i have to extrude some things to fix it. 
+![image](https://github.com/user-attachments/assets/c7130f7a-bf35-4672-9a5d-ce691b1cada0)
+argh i forgot the side effects of using intersect. 
+askdjfklasdfa;sldkfjasl;dfjl
+![image](https://github.com/user-attachments/assets/036178eb-279a-4667-ad30-bd0a8896e72e)
+i decided to change the extrude from add to new, and hopefully it should work.
+![image](https://github.com/user-attachments/assets/6eaba1ee-769e-470a-bc94-2897d7aabee8)
+it still leaves out the bottom. 
+![image](https://github.com/user-attachments/assets/5a43f36f-f730-40ca-9c1f-41843bd5fc15)
+i had to extrude a bit out to fix it, now all i need to do is use boolean to fuse them together. 
+![image](https://github.com/user-attachments/assets/99831e34-ce67-4b94-a25d-751651bdb4d0)
+oooo that's good.
+so now i need to make the book organiser modular. 
+before this project, i had done a modular/scuffed marble run, and i think i'll carry over the same system i used over there, to here. 
+![image](https://github.com/user-attachments/assets/d4ed260f-5f97-443f-af41-740fbbf8b7ed)
+i regret pocketing the bottom now. huge regrets. 
+![image](https://github.com/user-attachments/assets/eff44c0f-7225-4f3d-99ef-20a0313b70f7)
+i gotta evenly space these out.
+![image](https://github.com/user-attachments/assets/e5d252d7-861a-4ee5-b162-5beb41ded8e7)
+i think this works.
+![image](https://github.com/user-attachments/assets/a73b03ea-4966-4e46-8846-c3faf8d5af9b)
+i might put a bit of tolerances on these. 
+![image](https://github.com/user-attachments/assets/17100c0d-0551-458e-9fb1-ef88a1af0e84)
+that should work. 
+![image](https://github.com/user-attachments/assets/f092dd76-def4-48e8-968d-463b29eb05e5)
+oh no. 
+![image](https://github.com/user-attachments/assets/90a61a96-2e2f-46bf-940f-2f520216d9c2)
+epic.
