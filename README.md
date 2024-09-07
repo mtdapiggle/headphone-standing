@@ -1,3 +1,17 @@
+hi bartosz 💖
+![image](https://github.com/user-attachments/assets/f051e53a-4cae-4cc0-af44-5168c6917164)
+under-desk headphone stand
+![image](https://github.com/user-attachments/assets/b395f37f-202f-4955-be97-50b580f3190a)
+desk headphone stand
+![image](https://github.com/user-attachments/assets/628fcb42-2cec-4ca8-8bbc-4fe8e6886b37)
+USB hub mount (or thing that holds up a usb hub)
+![image](https://github.com/user-attachments/assets/25b4d7ff-36c6-444f-a5af-b729174994f2)
+phone stand
+![image](https://github.com/user-attachments/assets/940b77dc-665b-4b60-b663-cb5e252ae727)
+and a book sorter
+
+printables link: https://www.printables.com/model/998117-a-bunch-of-headphone-stands-and-a-book-sorter-and 
+
 # headphone-standing
 i wanna make a headphone stand to take a break from frc cadding
 
